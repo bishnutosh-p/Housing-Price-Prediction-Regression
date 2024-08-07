@@ -1,4 +1,4 @@
-# Squbix-Assignment-For-PS-AI-ML
+# Housing Price Prediction Using 2 Datasets ( Regression Algorithm Used )
 
 ### General Information about the Repository
 - This repository contain the Jupyter Notebook files for Assignment given by Squbix. The Assignment is based on AI/ML techniques and  contain machine learning models based on two popular datasets 'Boston Housing Prices' and 'California Housing Prices'. The project introduces an web based Application which can be used to find pricing of house.
