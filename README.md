@@ -9,6 +9,15 @@
 - The reports are also given in the repo, There are two reports for the two different notebooks.
 
 
+### Screenshots
+
+#### California Dataset Application
+![California Application](https://github.com/user-attachments/assets/7745ab6f-3cf1-48b4-98ca-6c943ead602c)
+
+#### Boston Dataset Application
+![Boston Application](https://github.com/user-attachments/assets/ccf7bf13-6883-4e4a-b3e1-fbd98801cf06)
+
+
 ### Installation Steps
 ```
 1. insatll jupyter/anaconda navigator
